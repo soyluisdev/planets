@@ -2,9 +2,9 @@
 
 This is an interactive web-based application that provides an overview of the planets and celestial bodies within our Solar System. It features a carousel that users can navigate to view information and images of the Sun, planets, and dwarf planets.
 
-[Screenshot_1](/doc/screen.png)
-[Screenshot_2](/doc/screen_0.png)
-[Screenshot_3](/doc/screen_1.png)
+![Screenshot_1](/doc/screen.png)
+![Screenshot_2](/doc/screen_0.png)
+![Screenshot_3](/doc/screen_1.png)
 
 ## Features
 
