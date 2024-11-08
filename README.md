@@ -40,6 +40,9 @@ This project uses only vanilla HTML, CSS, and JavaScript, so no additional libra
 - **Responsive Design**: Optimize styling in `style.css` for mobile devices.
 - **Dark Mode**: Provide an option for dark/light themes.
 
+## Project deployment
+You can check the project deployment here: https://planets-lyart.vercel.app/ 
+
 ## License
 
 This project is open source and available for modification and distribution.
